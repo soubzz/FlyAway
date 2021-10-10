@@ -49,7 +49,7 @@ body {
 		<button class="btn btn-light btn-lg">
 			<a href="/FlyAway/admin-login.jsp" style="color: #001E6C">Admin Login</a>
 		</button> -->
-  <div style="padding-left: 25%; padding-bottom: 25%"class="card-deck">
+  <div style="padding-left: 20%; padding-bottom: 25%"class="card-deck">
   <div class="card" style="width: 18rem;">
     <img class="card-img-top" src="img/tickets.jfif" alt="Card image cap" height="180" width="300">
     <div style="padding: 10px" class="card-body">
